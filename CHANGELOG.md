@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.13.0](https://github.com/soltysh/lula/compare/v0.12.0...v0.13.0) (2024-12-05)
+
+
+### Features
+
+* **profile:** resolve all controls in profile ([#818](https://github.com/soltysh/lula/issues/818)) ([1f9872b](https://github.com/soltysh/lula/commit/1f9872b2fe35fad6f98daa1aa66d2547a203a294))
+
+
+### Miscellaneous
+
+* declare top-level read permissions in workflows ([#830](https://github.com/soltysh/lula/issues/830)) ([713a249](https://github.com/soltysh/lula/commit/713a249da0e23dfce28fc8cc76f658c44125f866))
+* **deps:** update dependency go to v1.23.4 ([#831](https://github.com/soltysh/lula/issues/831)) ([4a64581](https://github.com/soltysh/lula/commit/4a64581773d8d2c4bbe3abfcd52c684e7bc8cc62))
+* **deps:** update module github.com/charmbracelet/bubbletea to v1.2.4 ([#822](https://github.com/soltysh/lula/issues/822)) ([12ffaf5](https://github.com/soltysh/lula/commit/12ffaf52f6d4b1d98fec1d355003e1d8a39107f4))
+* **deps:** update module github.com/defenseunicorns/go-oscal to v0.6.2 ([#833](https://github.com/soltysh/lula/issues/833)) ([5099e9c](https://github.com/soltysh/lula/commit/5099e9cf623457bf44c71f74ecc397bb4e6e7be6))
+* **deps:** update module github.com/stretchr/testify to v1.10.0 ([#821](https://github.com/soltysh/lula/issues/821)) ([21099ba](https://github.com/soltysh/lula/commit/21099ba35d4221ac55a53427bb5b5379d898072e))
+
 ## [0.12.0](https://github.com/defenseunicorns/lula/compare/v0.11.0...v0.12.0) (2024-11-23)
 
 
